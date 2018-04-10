@@ -1,0 +1,8 @@
+{
+	"compilerOptions": {
+		"lib": ["es2017", "dom"],
+		"rootDirs": ["./src", "./dev"]
+	},
+	"include": ["./src"],
+	"exclude": ["./node_modules", ".vscode"]
+}
